@@ -1,0 +1,505 @@
+[
+    {
+      "id": 1,
+      "question": "What is LIC Jeevan Labh?",
+      "answer": "LIC Jeevan Labh is a limited premium paying, non-linked, with-profits endowment plan that combines savings and protection. It offers financial support to the family in case of the policyholder's death and a lump sum at maturity."
+    },
+    {
+      "id": 2,
+      "question": "What are the premium payment terms for LIC Jeevan Labh?",
+      "answer": "The premium paying terms for LIC Jeevan Labh are 10, 15, or 16 years, depending on the policy term chosen (16, 21, or 25 years respectively)."
+    },
+    {
+      "id": 3,
+      "question": "Can I take a loan against my LIC Jeevan Labh policy?",
+      "answer": "Yes, a loan facility is available under LIC Jeevan Labh after the policy acquires a surrender value, usually after paying premiums for at least 2 years."
+    },
+    {
+      "id": 4,
+      "question": "What is the minimum age to buy LIC Jeevan Labh?",
+      "answer": "The minimum age to buy LIC Jeevan Labh is 8 years."
+    },
+    {
+      "id": 5,
+      "question": "What is the maximum age at maturity for LIC Jeevan Labh?",
+      "answer": "The maximum age at maturity is 75 years for LIC Jeevan Labh."
+    },
+    {
+      "id": 6,
+      "question": "What riders are available with LIC Jeevan Labh?",
+      "answer": "Riders available include LIC Accidental Death and Disability Benefit Rider, LIC New Term Assurance Rider, LIC New Critical Illness Benefit Rider, and LIC Premium Waiver Benefit Rider."
+    },
+    {
+      "id": 7,
+      "question": "What is LIC New Jeevan Anand?",
+      "answer": "LIC New Jeevan Anand is a participating, non-linked life insurance plan that provides financial protection during the lifetime of the policyholder along with a lump sum payment at the end of the policy term."
+    },
+    {
+      "id": 8,
+      "question": "Does LIC New Jeevan Anand provide coverage after policy maturity?",
+      "answer": "Yes, LIC New Jeevan Anand provides life cover even after the policy term ends, making it a whole-life cover plan."
+    },
+    {
+      "id": 9,
+      "question": "What is the claim settlement ratio of LIC?",
+      "answer": "LIC had a claim settlement ratio of 98.74% as per the latest IRDAI annual report."
+    },
+    {
+      "id": 10,
+      "question": "Can I pay LIC premiums online?",
+      "answer": "Yes, LIC premium payments can be made online via LIC’s website, mobile app, or through third-party payment platforms."
+    },
+    {
+      "id": 11,
+      "question": "How do I check the status of my LIC policy?",
+      "answer": "You can check your LIC policy status through the LIC website, mobile app, or by visiting the nearest branch."
+    },
+    {
+      "id": 12,
+      "question": "Can I revive my lapsed LIC policy?",
+      "answer": "Yes, LIC offers policy revival within a period of 5 years from the date of the first unpaid premium, subject to terms and conditions."
+    },
+    {
+      "id": 13,
+      "question": "What is the grace period for LIC premium payment?",
+      "answer": "The grace period is 15 days for monthly premium mode and 30 days for quarterly, half-yearly, or yearly premium payments."
+    },
+    {
+      "id": 14,
+      "question": "Can I surrender my LIC policy before maturity?",
+      "answer": "Yes, you can surrender your LIC policy after it acquires a surrender value, usually after paying premiums for 2 or 3 years."
+    },
+    {
+      "id": 15,
+      "question": "Is there a penalty for early surrender of LIC policies?",
+      "answer": "Yes, surrendering early may result in lower payouts than expected, depending on the policy’s surrender value factor."
+    },
+    {
+      "id": 16,
+      "question": "What is LIC Tech Term plan?",
+      "answer": "LIC Tech Term is a non-linked, non-participating pure term insurance plan that provides financial protection to the insured’s family in case of untimely demise."
+    },
+    {
+      "id": 17,
+      "question": "Can NRIs buy LIC policies?",
+      "answer": "Yes, NRIs can buy LIC policies, but they must be present in India at the time of policy issuance and meet underwriting requirements."
+    },
+    {
+      "id": 18,
+      "question": "What documents are required for LIC policy claim?",
+      "answer": "Documents include the original policy bond, claim form, death certificate (for death claims), identity/address proof, and bank details."
+    },
+    {
+      "id": 19,
+      "question": "How is LIC maturity amount calculated?",
+      "answer": "The maturity amount is calculated as Sum Assured + Bonus + Final Additional Bonus (if any)."
+    },
+    {
+      "id": 20,
+      "question": "What is LIC Bima Jyoti?",
+      "answer": "LIC Bima Jyoti is a non-linked, non-participating, individual, savings life insurance plan with guaranteed additions at ₹50 per ₹1,000 Sum Assured per policy year."
+    },
+    {
+      "id": 21,
+      "question": "Does LIC provide income tax benefits?",
+      "answer": "Yes, premiums paid are eligible for tax deduction under Section 80C, and maturity proceeds are tax-free under Section 10(10D) of the Income Tax Act, subject to conditions."
+    },
+    {
+      "id": 22,
+      "question": "Can I add multiple nominees in LIC policies?",
+      "answer": "Yes, you can nominate multiple beneficiaries and specify the percentage share for each in your LIC policy."
+    },
+    {
+      "id": 23,
+      "question": "How to download LIC premium payment receipt?",
+      "answer": "Login to the LIC customer portal, go to 'Policy Details' and click on 'Download Premium Paid Certificate' to get your receipt."
+    },
+    {
+      "id": 24,
+      "question": "What is the difference between LIC Jeevan Labh and LIC Jeevan Anand?",
+      "answer": "Jeevan Labh is a limited premium paying endowment plan with no life cover after maturity, while Jeevan Anand is a whole life plan that provides lifelong coverage even after policy maturity."
+    },
+    {
+      "id": 25,
+      "question": "How can I contact LIC customer care?",
+      "answer": "You can call LIC helpline at 022 6827 6827, available Monday to Saturday, or use the LIC customer portal or mobile app for support."
+    },
+    {
+      "id": 26,
+      "question": "What is LIC SIIP plan?",
+      "answer": "LIC SIIP is a Unit Linked Insurance Plan that offers both insurance coverage and investment benefits through various fund options."
+    },
+    {
+      "id": 27,
+      "question": "Can I switch funds in LIC ULIP plans?",
+      "answer": "Yes, LIC allows free fund switches in ULIP plans up to a certain number of times per year."
+    },
+    {
+      "id": 28,
+      "question": "Does LIC offer pension plans?",
+      "answer": "Yes, LIC offers pension plans like LIC Jeevan Akshay and LIC Jeevan Shanti that provide annuity income after retirement."
+    },
+    {
+      "id": 29,
+      "question": "What is LIC New Children's Money Back Plan?",
+      "answer": "It is a participating plan for children that provides survival benefits, bonuses, and maturity benefits along with risk cover after commencement of risk."
+    },
+    {
+      "id": 30,
+      "question": "What is the risk commencement date for LIC child plans?",
+      "answer": "For child plans, risk cover typically starts either 2 years after policy inception or after the child turns 8, whichever is earlier."
+    },
+    {
+      "id": 31,
+      "question": "What happens if I miss an LIC premium payment?",
+      "answer": "You get a grace period to pay the premium without penalty. After that, the policy may lapse, but can be revived later."
+    },
+    {
+      "id": 32,
+      "question": "Is Aadhaar mandatory for LIC policy purchase?",
+      "answer": "While Aadhaar is not mandatory, it is often requested as a standard KYC document during policy issuance."
+    },
+    {
+      "id": 33,
+      "question": "How do I update my address in LIC records?",
+      "answer": "Submit a written request along with valid address proof at your servicing LIC branch to update your address."
+    },
+    {
+      "id": 34,
+      "question": "How can I nominate someone in my LIC policy?",
+      "answer": "You can fill out a nomination form (Form 3750) and submit it to the nearest LIC office with your policy details."
+    },
+    {
+      "id": 35,
+      "question": "Can I change the nominee in my LIC policy later?",
+      "answer": "Yes, you can change or update your nominee at any time during the policy term by submitting a nomination change request."
+    },
+    {
+      "id": 36,
+      "question": "Is medical examination mandatory for LIC policies?",
+      "answer": "Medical examination may be required based on the sum assured, age, and health condition of the proposer."
+    },
+    {
+      "id": 37,
+      "question": "What is the difference between endowment and money-back LIC plans?",
+      "answer": "Endowment plans pay the maturity amount at the end of the term, while money-back plans pay survival benefits periodically during the term."
+    },
+    {
+      "id": 38,
+      "question": "What is Final Additional Bonus (FAB) in LIC policies?",
+      "answer": "FAB is a one-time bonus paid at the time of claim/maturity for long-term policies with high sum assured, if declared by LIC."
+    },
+    {
+      "id": 39,
+      "question": "Can I take LIC policy for my child?",
+      "answer": "Yes, LIC offers child plans that parents or legal guardians can take in the name of their children."
+    },
+    {
+      "id": 40,
+      "question": "How is LIC different from private insurers?",
+      "answer": "LIC is a government-owned insurer with a strong claim settlement history, while private insurers may offer more flexible plans but with varied service levels."
+    },
+    {
+      "id": 41,
+      "question": "What is loyalty addition in LIC policies?",
+      "answer": "Loyalty addition is a non-guaranteed bonus that may be paid on maturity or death if the policy is in force for a minimum duration."
+    },
+    {
+      "id": 42,
+      "question": "What are guaranteed additions in LIC Bima Jyoti?",
+      "answer": "Guaranteed additions of ₹50 per ₹1,000 Sum Assured are added annually throughout the policy term in LIC Bima Jyoti."
+    },
+    {
+      "id": 43,
+      "question": "Can I get loan on LIC policy online?",
+      "answer": "Yes, loans can be requested through the LIC customer portal if the policy is eligible and linked to your online account."
+    },
+    {
+      "id": 44,
+      "question": "How can I download my LIC policy bond?",
+      "answer": "Currently, the policy bond is not available for download online. You must collect the physical copy issued after policy approval."
+    },
+    {
+      "id": 45,
+      "question": "What is the maximum sum assured under LIC Tech Term?",
+      "answer": "There is no fixed upper limit, but it depends on the policyholder’s income, health, and underwriting approval."
+    },
+    {
+      "id": 46,
+      "question": "What is the surrender value in LIC policy?",
+      "answer": "Surrender value is the amount payable by LIC if you terminate the policy before maturity, subject to certain conditions."
+    },
+    {
+      "id": 47,
+      "question": "What is LIC Dhan Vriddhi plan?",
+      "answer": "LIC Dhan Vriddhi is a single premium, non-linked, non-participating, individual savings life insurance plan with guaranteed benefits."
+    },
+    {
+      "id": 48,
+      "question": "Can I convert my LIC policy to a paid-up policy?",
+      "answer": "Yes, if the policy has completed the minimum premium payment years, it can be converted to a reduced paid-up policy."
+    },
+    {
+      "id": 49,
+      "question": "How do I update my contact details in LIC records?",
+      "answer": "Login to LIC’s customer portal or visit a branch to update your mobile number and email with a valid ID."
+    },
+    {
+      "id": 50,
+      "question": "Can I cancel my LIC policy during the free-look period?",
+      "answer": "Yes, policies can be canceled within 15 days of receiving the bond during the free-look period, with refund after deductions."
+    },
+    
+        {
+          "id": 51,
+          "question": "Can I get a duplicate LIC policy bond if I lose the original?",
+          "answer": "Yes, you can apply for a duplicate LIC policy bond by submitting a written request, indemnity bond, and FIR copy at your servicing branch."
+        },
+        {
+          "id": 52,
+          "question": "What is the free-look period in LIC policies?",
+          "answer": "LIC offers a 15-day free-look period from the date of receipt of the policy document during which the policyholder can cancel the policy if not satisfied."
+        },
+        {
+          "id": 53,
+          "question": "How can I avail LIC premium auto-debit facility?",
+          "answer": "You can opt for auto-debit by submitting an ECS/NACH mandate form with your bank and LIC branch for regular premium payments."
+        },
+        {
+          "id": 54,
+          "question": "Is LIC policy valid outside India?",
+          "answer": "Yes, LIC policies are valid even if the policyholder moves abroad, provided LIC is informed and underwriting conditions are met."
+        },
+        {
+          "id": 55,
+          "question": "What is LIC’s maturity settlement option?",
+          "answer": "LIC offers maturity settlement options such as lump-sum payment or installment options over 5, 10, or 15 years."
+        },
+        {
+          "id": 56,
+          "question": "Can I get SMS alerts for my LIC policy?",
+          "answer": "Yes, you can register your mobile number to receive SMS alerts for due dates, premium payments, and policy updates."
+        },
+        {
+          "id": 57,
+          "question": "Does LIC offer group insurance plans?",
+          "answer": "Yes, LIC provides group insurance schemes for employees, organizations, and affinity groups."
+        },
+        {
+          "id": 58,
+          "question": "What is LIC’s Jeevan Shanti plan?",
+          "answer": "LIC Jeevan Shanti is a single premium, non-linked, non-participating annuity plan that offers both immediate and deferred annuity options."
+        },
+        {
+          "id": 59,
+          "question": "How to download LIC mobile app?",
+          "answer": "You can download the LIC Customer app from Google Play Store or Apple App Store for policy services and premium payments."
+        },
+        {
+          "id": 60,
+          "question": "Can I change premium payment mode in LIC policy?",
+          "answer": "Yes, you can request to change your premium payment frequency (monthly/quarterly/half-yearly/yearly) by visiting your LIC branch."
+        },
+        {
+          "id": 61,
+          "question": "What is assignment of LIC policy?",
+          "answer": "Assignment is the legal transfer of policy ownership to another person or institution, usually for loan or security purposes."
+        },
+        {
+          "id": 62,
+          "question": "How can I update my email ID with LIC?",
+          "answer": "You can update your email by logging into the LIC portal or submitting a request form at your LIC branch."
+        },
+        {
+          "id": 63,
+          "question": "What is a participating LIC policy?",
+          "answer": "A participating LIC policy shares the company's profits in the form of bonuses declared annually."
+        },
+        {
+          "id": 64,
+          "question": "What is a non-participating LIC policy?",
+          "answer": "A non-participating LIC policy does not share profits, and benefits are fixed at the time of purchase."
+        },
+        {
+          "id": 65,
+          "question": "Can I port my LIC policy to another insurer?",
+          "answer": "No, life insurance policies are not portable between insurers in India unlike health insurance."
+        },
+        {
+          "id": 66,
+          "question": "Does LIC provide term insurance with return of premium?",
+          "answer": "Yes, LIC offers term insurance plans with return of premium options like LIC Jeevan Amar (Optional)."
+        },
+        {
+          "id": 67,
+          "question": "What is LIC e-Services?",
+          "answer": "LIC e-Services is an online self-service portal that allows policyholders to check policy status, pay premiums, view statements, and more."
+        },
+        {
+          "id": 68,
+          "question": "Is GST applicable on LIC premiums?",
+          "answer": "Yes, GST is applicable on LIC premiums, and the rate depends on the type of policy (term, endowment, ULIP, etc.)."
+        },
+        {
+          "id": 69,
+          "question": "Can I pay LIC premium via credit card?",
+          "answer": "Yes, LIC accepts premium payments through credit cards, debit cards, net banking, and UPI."
+        },
+        {
+          "id": 70,
+          "question": "How is LIC bonus declared?",
+          "answer": "LIC bonus is declared annually based on the valuation of its profit and is distributed to participating policyholders."
+        },
+        {
+          "id": 71,
+          "question": "What is LIC’s mobile number update process?",
+          "answer": "To update your mobile number, visit LIC’s customer portal or submit a request at the nearest branch with identity proof."
+        },
+        {
+          "id": 72,
+          "question": "How to get LIC premium paid certificate for income tax filing?",
+          "answer": "Log in to the LIC portal or visit a LIC branch to download or request the premium paid certificate."
+        },
+        {
+          "id": 73,
+          "question": "Does LIC provide accidental death benefits?",
+          "answer": "Yes, LIC offers accidental death benefits as optional riders in most of its life insurance plans."
+        },
+        {
+          "id": 74,
+          "question": "What is the cooling-off period in LIC policies?",
+          "answer": "The cooling-off period, also called the free-look period, is 15 days from policy receipt for review and cancellation."
+        },
+        {
+          "id": 75,
+          "question": "How do I apply for LIC annuity pension plan?",
+          "answer": "You can apply for annuity pension plans online on the LIC website or by visiting the nearest LIC branch."
+        },
+        {
+          "id": 76,
+          "question": "What are the fund options in LIC ULIP plans?",
+          "answer": "LIC ULIPs offer fund options like Bond Fund, Secured Fund, Balanced Fund, and Growth Fund with different risk-return profiles."
+        },
+        {
+          "id": 77,
+          "question": "Can minors be policyholders under LIC?",
+          "answer": "Yes, minors can be policyholders, but the policy must be taken and managed by a parent or legal guardian."
+        },
+        {
+          "id": 78,
+          "question": "Can I get a loan on a money-back LIC policy?",
+          "answer": "Yes, loans are available on money-back policies once they acquire a surrender value."
+        },
+        {
+          "id": 79,
+          "question": "How do I register for LIC’s online services?",
+          "answer": "Visit LIC’s official website, go to the e-Services section, and register using your policy number and mobile/email verification."
+        },
+        {
+          "id": 80,
+          "question": "What is surrender value in LIC?",
+          "answer": "Surrender value is the amount payable to the policyholder if the policy is voluntarily terminated before maturity."
+        },
+        {
+          "id": 81,
+          "question": "Is partial withdrawal allowed in LIC policies?",
+          "answer": "Partial withdrawal is allowed only in certain LIC ULIP plans under specified conditions."
+        },
+        {
+          "id": 82,
+          "question": "Can I reinstate my cancelled LIC policy?",
+          "answer": "Yes, you can revive a cancelled or lapsed LIC policy within the revival period by paying pending premiums and penalties."
+        },
+        {
+          "id": 83,
+          "question": "What is the revival period for a lapsed LIC policy?",
+          "answer": "The revival period is 5 years from the date of the first unpaid premium."
+        },
+        {
+          "id": 84,
+          "question": "What are the charges in LIC ULIPs?",
+          "answer": "ULIPs have charges like premium allocation, policy administration, fund management, mortality, and switching charges."
+        },
+        {
+          "id": 85,
+          "question": "Is LIC Jeevan Akshay available online?",
+          "answer": "Yes, LIC Jeevan Akshay is available for purchase online through LIC’s official website."
+        },
+        {
+          "id": 86,
+          "question": "What happens if a LIC policyholder dies during the grace period?",
+          "answer": "If death occurs during the grace period, the claim is still payable as the policy is treated as in-force."
+        },
+        {
+          "id": 87,
+          "question": "How to apply for NEFT for LIC maturity claim?",
+          "answer": "Submit a NEFT mandate form with bank details, cancelled cheque, and policy documents to your LIC branch."
+        },
+        {
+          "id": 88,
+          "question": "What is the minimum Sum Assured in LIC term plans?",
+          "answer": "Minimum Sum Assured in LIC term plans usually starts from ₹5 lakhs depending on the specific plan."
+        },
+        {
+          "id": 89,
+          "question": "Does LIC cover COVID-19 death under life insurance?",
+          "answer": "Yes, COVID-19 related deaths are covered under LIC life insurance policies."
+        },
+        {
+          "id": 90,
+          "question": "What is the maximum maturity age in LIC policies?",
+          "answer": "The maximum maturity age varies between 65 and 80 years depending on the plan."
+        },
+        {
+          "id": 91,
+          "question": "How do I get LIC bond if I purchased policy online?",
+          "answer": "LIC sends a soft copy by email and a hard copy by post. You can also download it from the LIC e-Services portal."
+        },
+        {
+          "id": 92,
+          "question": "Can I nominate someone outside my family in LIC policy?",
+          "answer": "Yes, you can nominate anyone, including non-family members, provided there is insurable interest."
+        },
+        {
+          "id": 93,
+          "question": "Can LIC policies be pledged for loans?",
+          "answer": "Yes, LIC policies with surrender value can be pledged with banks or financial institutions as loan security."
+        },
+        {
+          "id": 94,
+          "question": "What is the process for LIC death claim settlement?",
+          "answer": "Submit claim form, death certificate, policy bond, and other supporting documents at the servicing branch for claim processing."
+        },
+        {
+          "id": 95,
+          "question": "How do I check bonus rates for LIC policies?",
+          "answer": "You can check bonus rates declared by LIC annually on their official website or inquire at the branch."
+        },
+        {
+          "id": 96,
+          "question": "Does LIC offer policies for senior citizens?",
+          "answer": "Yes, LIC offers pension and annuity plans tailored for senior citizens like Jeevan Shanti and Jeevan Akshay."
+        },
+        {
+          "id": 97,
+          "question": "Can I nominate multiple people with equal share?",
+          "answer": "Yes, you can distribute nominee shares equally or unequally among multiple people as per your wish."
+        },
+        {
+          "id": 98,
+          "question": "Can I invest in LIC through agents or only online?",
+          "answer": "You can buy LIC policies both online and through authorized LIC agents."
+        },
+        {
+          "id": 99,
+          "question": "Does LIC provide maturity alert notification?",
+          "answer": "Yes, LIC sends alerts via SMS/email prior to maturity and advises policyholders to submit documents in advance."
+        },
+        {
+          "id": 100,
+          "question": "What is the policy term range in LIC?",
+          "answer": "LIC policy terms range from 5 years to 40 years depending on the specific plan."
+        }
+  ]
+          
+  
