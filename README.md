@@ -151,7 +151,7 @@ Streamlit Documentation
 TextBlob
 
 ## 🙋 Contact
-Developed by [Your Name]
+Developed by [Sindhuja Seenivasn]
 📧 Email: sindhuja.ene@gmail.com
 🔗 GitHub: github.com/27153
 
